@@ -1,24 +1,10 @@
-# jfr-plots
+# JFR Plots
 
-## Project setup
-```
-npm install
-```
+### install dependencies
+`npm install`
+`npm run dev`
+`npm run build`
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Contribution guide
+* `npm install` or `yarn install`
+* Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
